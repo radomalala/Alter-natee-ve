@@ -1,0 +1,85 @@
+.ui-dialog .ui-dialog-title {
+    float: left;
+    margin: .1em 0;
+    white-space: nowrap;
+    width: 90%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 23px;
+    text-align: center;
+    color: white;
+}
+
+.ui-widget-header {
+    background: #e2e2e2 !important;
+}
+
+.validateTips {
+    text-align: center;
+    margin-bottom: 21px;
+    margin-top: 76px;
+    font-weight: 300;
+}   
+
+.validateTips + p {
+    text-align: center;
+    margin-bottom: 21px;
+    margin-top: 22px;
+    font-weight: 300;
+}
+
+.ui-dialog .ui-dialog-buttonpane button {
+    border: 1px solid #fff7eb !important;
+    background: #b3ab9f !important;
+    color: white !important;
+    font-weight: normal;
+    margin-top : -1rem !important;
+}
+
+#search-store fieldset .row {
+    width: 100% !important;
+}
+
+#search-store fieldset .row label {
+    margin-left: -3%;
+    margin-right: -4%;
+    text-align: center;
+}
+
+.centerButton {
+    margin-left: -30% !important;
+}
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+    float: right !important;
+    margin-right: 30% !important;
+}
+
+.ui-widget .ui-widget {
+    font-size: 1.4em !important;
+}
+
+.ui-widget-content {
+    border: none !important;
+ }
+
+
+#dialog-position h3, #dialog-position2 h3{
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: -32px;
+}
+
+#fermer-dialog, #fermer-dialog2{
+    float: right;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+    margin-top: -50px !important;
+    margin-bottom: 40px !important;
+    padding: none !important;
+}
+
+#postal_code, #postal_code2 {
+    width: 110%;
+}
